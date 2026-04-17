@@ -1,6 +1,6 @@
 # 🎲 Sistema de Casa de Apuestas "BetMaster"
 
-Para visualizar los diagramas de este proyecto ingrese al siguiente link ---->  https://drive.google.com/file/d/1Ctf9Th4cPxEJYoMg8ciFaz2RxYmeWB8f/view?usp=sharing  
+Para visualizar los diagramas de este proyecto ingrese al siguiente link:  https://drive.google.com/file/d/1Ctf9Th4cPxEJYoMg8ciFaz2RxYmeWB8f/view?usp=sharing  
 
 Se recomienda abrir el alchivo mediante la pagina web Draw.io
 
