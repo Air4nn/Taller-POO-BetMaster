@@ -1,5 +1,7 @@
 # 🎲 Sistema de Casa de Apuestas "BetMaster"
 
+Para visuaalizar los diagramas de este proyecto ingrese al siguiente link ----------->  https://drive.google.com/file/d/1Ctf9Th4cPxEJYoMg8ciFaz2RxYmeWB8f/view?usp=sharing  Ademas se recomienda abrir el alchivo mediante la pagina web Draw.io
+
 ## 📌 Descripción del Proyecto
 
 Este proyecto implementa un sistema de apuestas deportivas utilizando Programación Orientada a Objetos (POO) en Java.
@@ -144,22 +146,7 @@ El objetivo es modelar el funcionamiento básico de una casa de apuestas, aplica
 
 ---
 
-## 📈 Posibles Mejoras
-
-* Implementar interfaz gráfica
-* Persistencia de datos (archivos o base de datos)
-* Validaciones más avanzadas
-* Simulación de resultados de eventos
-* Sistema de historial de apuestas
-
----
-
 ## 👨‍💻 Autor
 
-Proyecto desarrollado como parte de aprendizaje en Programación Orientada a Objetos.
+Airann Estiben Yepes Barrera.
 
----
-
-## 📌 Nota Final
-
-Este sistema es una simulación académica y no representa una plataforma real de apuestas.
